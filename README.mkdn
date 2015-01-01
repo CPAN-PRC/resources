@@ -6,5 +6,10 @@ The CPAN pull request challenge is described in [Neil's post](http://neilb.org/2
 This repository provides resources for any and all participants. Feel free
 to send pull request to improve these resources for everyone. :)
 
-[The wiki](https://github.com/CPAN-PRC/resources/wiki) is a good place to
-start.
+The following resources are available:
+
+* An [IRC channel](https://chat.mibbit.com/?channel=%23pr-challenge&server=irc.perl.org).
+* A [mailing list](https://groups.google.com/forum/#!forum/cpan-pr-challenge). (Introduce yourself!)
+* A [Twitter hashtag](https://twitter.com/search?f=realtime&q=%23cpanpr&src=typd).
+* [Wiki](https://github.com/CPAN-PRC/resources/wiki) with the
+  [Github PR guide](https://github.com/CPAN-PRC/resources/wiki/My-first-Pull-Request).
