@@ -8,7 +8,7 @@ to send pull request to improve these resources for everyone. :)
 
 The following resources are available:
 
-* An [IRC channel](https://chat.mibbit.com/?channel=%23pr-challenge&server=irc.perl.org).
+* An [IRC channel](https://chat.mibbit.com/?channel=%23pr-challenge&server=irc.perl.org) with [public logs](http://irclog.perlgeek.de/pr-challenge/today).
 * A [mailing list](https://groups.google.com/forum/#!forum/cpan-pr-challenge). (Introduce yourself!)
 * A [Twitter hashtag](https://twitter.com/search?f=realtime&q=%23cpanpr&src=typd).
 * [Wiki](https://github.com/CPAN-PRC/resources/wiki) with the
