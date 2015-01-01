@@ -6,3 +6,5 @@ The CPAN pull request challenge is described in [Neil's post](http://neilb.org/2
 This repository provides resources for any and all participants. Feel free
 to send pull request to improve these resources for everyone. :)
 
+[The wiki](https://github.com/CPAN-PRC/resources/wiki) is a good place to
+start.
