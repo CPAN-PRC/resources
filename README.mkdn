@@ -1,0 +1,8 @@
+CPAN Pull Request Challenge
+===========================
+
+The CPAN pull request challenge is described in [Neil's post](http://neilb.org/2014/11/29/pr-challenge-2015.html).
+
+This repository provides resources for any and all participants. Feel free
+to send pull request to improve these resources for everyone. :)
+
