@@ -13,3 +13,4 @@ The following resources are available:
 * A [Twitter hashtag](https://twitter.com/search?f=realtime&q=%23cpanpr&src=typd).
 * [Wiki](https://github.com/CPAN-PRC/resources/wiki) with the
   [Github PR guide](https://github.com/CPAN-PRC/resources/wiki/My-first-Pull-Request).
+* [Ideas](http://neilb.org/2014/12/31/pr-ideas.html) for pull requests.
