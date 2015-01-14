@@ -18,4 +18,4 @@ The following resources are available:
   - ...and [What to do with a CPAN distribution](http://neilb.org/2015/01/07/what-to-do.html)
   - Paul Cochrane's [Module clean up ideas for the CPAN Pull Request Challenge](http://codeaffe.de/cpan-pull-request-challenge/)
 * Assignments:
-  - [January](january.html)
+  - [January](http://rawgit.com/CPAN-PRC/resources/master/january.html)
