@@ -17,6 +17,6 @@ The following resources are available:
   - Neil Bower's [Pull request ideas](http://neilb.org/2014/12/31/pr-ideas.html)
   - ...and [What to do with a CPAN distribution](http://neilb.org/2015/01/07/what-to-do.html)
   - Paul Cochrane's [Module clean up ideas for the CPAN Pull Request Challenge](http://codeaffe.de/cpan-pull-request-challenge/)
-* [PRC scores for CPAN dists](http://rawgit.com/CPAN-PRC/resources/master/prc-scores.html)
+* [PRC scores for CPAN dists](https://cdn.rawgit.com/CPAN-PRC/resources/master/prc-scores.html)
 * Assignments:
-  - [January](http://rawgit.com/CPAN-PRC/resources/master/january.html)
+  - [January](https://cdn.rawgit.com/CPAN-PRC/resources/master/january.html)
