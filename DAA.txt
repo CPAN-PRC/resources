@@ -1,0 +1,64 @@
+AIM: To compare Time Compexities of insertion sort,bubble sort and selection sort .
+Program:
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+void bubbleSort(int array[], int n){
+    int swap,c,d;
+      for (c = 0 ; c < n - 1; c++)
+        {
+            for (d = 0 ; d < n - c - 1; d++)
+            {
+                if (array[d] > array[d+1]) /* For decreasing order use < */
+                {
+                    swap = array[d];
+                    array[d] = array[d+1];
+                    array[d+1] = swap;
+                }
+            }
+        }
+}
+void selectionSort(int array[], int n){
+    int swap,c,d,position;
+      for (c = 0; c < (n - 1); c++)
+        {
+            position = c;
+   
+            for (d = c + 1; d < n; d++)
+            {
+                if (array[position] > array[d])
+                position = d;
+            }
+            if (position != c)
+            {
+                swap = array[c];
+                array[c] = array[position];
+                array[position] = swap;
+            }
+        }
+}
+void insertionSort(int array[], int n){
+    int c,d,t;
+    for (c = 1 ; c <= n - ; c++) {
+        d = c;
+        while ( d > 0 && array[d-1] > array[d]) {
+        t = array[d];
+        array[d]   = array[d-1];
+        array[d-1] = t;
+        d--;
+    }
+  }
+}
+int main(void){
+    int i,A[1000];
+    double tt;
+    clock_t start,end;
+	for (i=0 ; i<1000 ; i++)
+	A[i] = rand() % 1000 ;
+	start=clock();
+	selectionSort( A , 1000 ) ;
+	end=clock();
+	tt=((double)(end-start)/CLOCKS_PER_SEC);
+	printf("%lf",tt);
+	return 0;
+}
